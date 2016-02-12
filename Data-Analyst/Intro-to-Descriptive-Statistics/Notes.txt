@@ -1,3 +1,9 @@
 * Operational definition
 1. A way of turning constructs into variables we can measure
 2. A way of describing a variable in terms of the way we can measure it
+
+* Extraneous (or Lurking) variables
+1. Provide possible alternative explanations for observed relationships between variables
+2. Are factors that could influence the relationships we measure between two or more variables
+3. Should be controlled in an experiment before we can make confident causal statements
+4. Make it difficult to make causal statements from data from observational studies.
