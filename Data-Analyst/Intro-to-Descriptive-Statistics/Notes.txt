@@ -1,0 +1,3 @@
+* Operational definition
+1. A way of turning constructs into variables we can measure
+2. A way of describing a variable in terms of the way we can measure it
