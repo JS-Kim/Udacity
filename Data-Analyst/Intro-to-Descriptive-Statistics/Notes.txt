@@ -7,3 +7,5 @@
 2. Are factors that could influence the relationships we measure between two or more variables
 3. Should be controlled in an experiment before we can make confident causal statements
 4. Make it difficult to make causal statements from data from observational studies.
+
+* In an experiment, the researcher manipulates the "independent" variable, measures changes in the "dependent" variable, and seeks to control "lurking(extraneous)" variables.
