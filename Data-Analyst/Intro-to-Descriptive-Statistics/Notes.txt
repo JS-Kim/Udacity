@@ -1,5 +1,5 @@
 * Operational definition
-1. A way of turning constructs into variables we can measure
+1. A way of turning constructs (that have no unit) into variables we can measure
 2. A way of describing a variable in terms of the way we can measure it
 
 * Extraneous (or Lurking) variables
@@ -9,6 +9,9 @@
 4. Make it difficult to make causal statements from data from observational studies.
 
 * In an experiment, the researcher manipulates the "independent" variable, measures changes in the "dependent" variable, and seeks to control "lurking(extraneous)" variables.
+
+*Hypotheses are statements about the relationships between variables.
+
 
 
 
