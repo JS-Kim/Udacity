@@ -12,6 +12,9 @@
 
 *Hypotheses are statements about the relationships between variables.
 
+*Observational studies --> finding correlation between variables, but not causation because subject assignments are not controlled by the investigator.
+*Experimental studies --> finding correlation and causation by experiments, where each subject is *randomly assigned* to a treated group or a control group.
+
 
 
 
