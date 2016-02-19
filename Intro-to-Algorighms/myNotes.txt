@@ -1,0 +1,4 @@
+How makes a program fly? (make it faster)
+- Careful program design
+- Tweaking loops
+- Good algorithm design
