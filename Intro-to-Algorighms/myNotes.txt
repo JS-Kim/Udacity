@@ -2,3 +2,9 @@ How makes a program fly? (make it faster)
 - Careful program design
 - Tweaking loops
 - Good algorithm design
+
+Theory stuff (e.g., mathematics) helps
+- Formalize what you are doing
+- Analyze correctness
+- Analyze efficiency (in terms of time, energy, memory...), focusing on 'time'
+
