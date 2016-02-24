@@ -19,5 +19,7 @@
 
 *Normal distribution: the mean, median, mode are equal
 
+*Median and mean cannot be used to describe categorical data such as gender or country of origin, but mode can be used to do that.
+
 
 
