@@ -17,6 +17,7 @@
 
 *With such a small dataset and a weak trend, it's hard to draw conclusions from the data.
 
+*Normal distribution: the mean, median, mode are equal
 
 
 
