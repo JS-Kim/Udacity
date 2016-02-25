@@ -21,5 +21,6 @@
 
 *Median and mean cannot be used to describe categorical data such as gender or country of origin, but mode can be used to do that.
 
+*Interquartile Range (IQR): Q3 (top 25%) - Q1 (bottom 25%)
 
 
