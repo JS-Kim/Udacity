@@ -23,4 +23,9 @@
 
 *Interquartile Range (IQR): Q3 (top 25%) - Q1 (bottom 25%)
 
+* Definition of Outlier: < Q1 - 1.5 * (IQR), > Q3 + 1.5 * (IQR)
+
+
+
+
 
