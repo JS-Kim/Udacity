@@ -31,5 +31,6 @@
 * Web-based data ploting / histogram / etc. 
 : http://www.wolframalpha.com
 
-
+--- Lesson 7
+*sigma / SE = sqrt(sample_size) <-- population_SD / sample_means_SD = sqrt(sample_size)
 
