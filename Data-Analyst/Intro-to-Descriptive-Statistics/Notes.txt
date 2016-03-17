@@ -28,7 +28,8 @@
 * In Excel, short-cut for copy+
 : cmd+c (copy a single cell), go to the first data cell, cmd+down-key, go to the last cell where to be pasted, cmd+shift+up-key, and then cmd-v.
 
-
+* Web-based data ploting / histogram / etc. 
+: http://www.wolframalpha.com
 
 
 
