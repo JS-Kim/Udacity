@@ -1,5 +1,8 @@
 Lesson 8: Estimation
-* 2 * standard_error = margin of error, i.e., 2 * sigma/sqrt(n)
 
+* Standard error is the standard deviation of sampling distribution: how far the sample means are away from the population mean
+* 2 * standard_error = margin of error, i.e., 2 * sigma/sqrt(n)
 * In sampling distribution, 95% of sample means fall within 1.96 (z-score) standard errors from the population.
+* +- 2.33 (z-score) are the CRITICAL VALUES of Z for 98% confidence
+* +- 1.96 (z-score) are the CRITICAL VALUES of Z for 95% confidence
 
