@@ -1,2 +1,5 @@
 Lesson 8: Estimation
-* 2 * standard_error = margin of error, 2 * sigma/sqrt(n)
+* 2 * standard_error = margin of error, i.e., 2 * sigma/sqrt(n)
+
+* In sampling distribution, 95% of sample means fall within 1.96 (z-score) standard errors from the population.
+
