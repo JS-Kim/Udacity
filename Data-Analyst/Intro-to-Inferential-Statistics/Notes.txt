@@ -10,4 +10,9 @@ Lesson 8: Estimation
 -- margin of error = Z * sigma/sqrt(n), i.e., half the width of the confidence interval
 ----- compare this with "2 * standard_error = margin of error, i.e., 2 * sigma/sqrt(n)" that was lectured in the earlier lesson.
 
+* 95% CI (confidence interval) for the population mean, when the population's SD is given
+: sample_mean +- 1.96 * SD/sqrt(sample_size)
+* 98% CI (confidence interval) for the population mean, when the population's SD is given
+: sample_mean +- 2.33 * SD/sqrt(sample_size)
+
 
