@@ -2,13 +2,13 @@
 
 ## Two-tailed vs. one-tailed tests
 
-*** The null hypothesis and alternative hypothesis proposed here correspond to a two-tailed test, which allows you to distinguish between three cases: ***
+**The null hypothesis and alternative hypothesis proposed here correspond to a two-tailed test, which allows you to distinguish between three cases:**
 
 * A statistically significant positive result
 * A statistically significant negative result
 * No statistically significant difference.
 
-*** Sometimes when people run A/B tests, they will use a one-tailed test, which only allows you to distinguish between two cases: ***
+**Sometimes when people run A/B tests, they will use a one-tailed test, which only allows you to distinguish between two cases:**
 
 * A statistically significant positive result
 * No statistically significant result
